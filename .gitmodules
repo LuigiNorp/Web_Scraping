@@ -1,0 +1,15 @@
+[submodule "Scrapy"]
+	path = Scrapy
+	url = https://github.com/LuigiNorp/Scrapy
+[submodule "Selenium"]
+	path = Selenium
+	url = https://github.com/LuigiNorp/Selenium
+[submodule "Beautiful_Soup"]
+	path = Beautiful_Soup
+	url = https://github.com/LuigiNorp/Beautiful_Soup
+[submodule "Requests_Lxml"]
+	path = Requests_Lxml
+	url = https://github.com/LuigiNorp/Requests_Lxml
+[submodule "Pyppeteer"]
+	path = Pyppeteer
+	url = https://github.com/LuigiNorp/Pyppeteer
